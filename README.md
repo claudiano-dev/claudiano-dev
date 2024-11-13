@@ -1,7 +1,7 @@
 ### Olá! Eu Sou Claudiano Barbosa
 
-- 🔭 Desenvolvedor FrontEnd
-- 🌱 Estudante de tecnologias Web - Html,Css,Javascript e Python
+- 🔭 Desenvolvedor Web FrontEnd
+- 🌱 Estudo tecnologias Web como: Html,Css,Javascript, Python e Java.
 - 👯 Ele/Dele
 
 
